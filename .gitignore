@@ -1,0 +1,6 @@
+chromedriver.exe
+*.ipynb_checkpoints
+data/**/*.csv
+data/*.csv
+api_key.txt
+Get_Data.ipynb
